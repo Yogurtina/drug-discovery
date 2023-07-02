@@ -1,2 +1,2 @@
-# drug-discovery
-Formulating drugs using linear programming.
+# Drug Discovery
+Formulating drugs using mixed integer linear programming.
